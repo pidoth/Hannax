@@ -1,4 +1,4 @@
-_G.OSVERSION = "Hannax 0.0.1
+_G.OSVERSION = "Hannax 0.0.1"
 
 local component = component
 local computer = computer
